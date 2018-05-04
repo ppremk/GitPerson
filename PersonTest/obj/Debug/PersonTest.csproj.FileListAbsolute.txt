@@ -1,0 +1,8 @@
+Z:\Projects\GitHubCandidate\Person\PersonTest\bin\Debug\PersonTest.exe.config
+Z:\Projects\GitHubCandidate\Person\PersonTest\obj\Debug\PersonTest.csprojResolveAssemblyReference.cache
+Z:\Projects\GitHubCandidate\Person\PersonTest\bin\Debug\PersonTest.exe
+Z:\Projects\GitHubCandidate\Person\PersonTest\bin\Debug\PersonTest.pdb
+Z:\Projects\GitHubCandidate\Person\PersonTest\bin\Debug\Person.dll
+Z:\Projects\GitHubCandidate\Person\PersonTest\bin\Debug\Person.pdb
+Z:\Projects\GitHubCandidate\Person\PersonTest\obj\Debug\PersonTest.exe
+Z:\Projects\GitHubCandidate\Person\PersonTest\obj\Debug\PersonTest.pdb
